@@ -1,8 +1,7 @@
-## Master Wifi Network Solution
+<h1 align="center">Master Wifi Network Solution</h1>
 
-<div id="header" align="center">
-  <img src="https://yt3.googleusercontent.com/pOYZvItKpHSJmhqrBqoI49KqUaHZaVTi8rByrjl8dMzR3tiaO1MSEbk8RC1-IEqU5OPr7lT7LDc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" width="100"/>
-<div id="badges">
+<img src="https://yt3.googleusercontent.com/pOYZvItKpHSJmhqrBqoI49KqUaHZaVTi8rByrjl8dMzR3tiaO1MSEbk8RC1-IEqU5OPr7lT7LDc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="https://yt3.googleusercontent.com/pOYZvItKpHSJmhqrBqoI49KqUaHZaVTi8rByrjl8dMzR3tiaO1MSEbk8RC1-IEqU5OPr7lT7LDc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" width="978" height="161" align="center" class="shrinkToFit">
+<div id="badges" align="center">
   <a href="https://facebook.com/muhammadyusuf1992">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
@@ -16,6 +15,11 @@
     <img src="https://img.shields.io/badge/Whatsapp-mediumaquamarine?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=masterwifinetworksolution&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=masterwifinetworksolution&style=flat-square&color=blue" alt=""/>
+</div>
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api?username=masterwifinetworksolution&&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=masterwifinetworksolution&&theme=jolly" width="700">
