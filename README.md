@@ -1,7 +1,7 @@
 ## Master Wifi Network Solution
 
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/46000841?v=4" width="100"/>
+  <img src="https://yt3.googleusercontent.com/pOYZvItKpHSJmhqrBqoI49KqUaHZaVTi8rByrjl8dMzR3tiaO1MSEbk8RC1-IEqU5OPr7lT7LDc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" width="100"/>
 <div id="badges">
   <a href="https://facebook.com/muhammadyusuf1992">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
