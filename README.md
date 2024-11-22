@@ -23,15 +23,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=masterwifinetworksolution&&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=masterwifinetworksolution&&theme=jolly" width="700">
 </div>
-<div>
-<table style="width:100%">
-  <tr>
-    <th style="width:50%">Repository</th>
-    <th style="width:50%">Artikel</th>
-  </tr>
-  <tr>
-    <td style="width:50%"><a href="https://github.com/masterwifinetworksolution/termux-auto-planemode" target="_blank">Termux-Auto-Planemode</a></td>
-    <td style="width:50%"><a href="https://masterwifinetworksolution.github.io/termux-auto-mode-plane.html" target="_blank">Termux Auto Plane Mode</a></td>
-  </tr>
-</table>
-</div>
+
+| Repository | Artikel |
+| - | - |
+[Termux-Auto-Planemode](https://github.com/masterwifinetworksolution/termux-auto-planemode) | [Termux Auto Plane Mode](https://masterwifinetworksolution.github.io/termux-auto-mode-plane.html)
