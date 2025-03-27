@@ -1,6 +1,6 @@
 <h1 align="center">Master Wifi Network Solution</h1>
 
-<img src="https://yt3.googleusercontent.com/pOYZvItKpHSJmhqrBqoI49KqUaHZaVTi8rByrjl8dMzR3tiaO1MSEbk8RC1-IEqU5OPr7lT7LDc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="https://yt3.googleusercontent.com/pOYZvItKpHSJmhqrBqoI49KqUaHZaVTi8rByrjl8dMzR3tiaO1MSEbk8RC1-IEqU5OPr7lT7LDc=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" width="978" height="161" align="center" class="shrinkToFit">
+<img src="https://yt3.googleusercontent.com/Ol2XxpiavPF4rGJNJXeCMUUE7WpYh4Mwryh-14qv73C58ueyZ4leO9xk0-aBAQ8Zm3TqWQsi=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" width="978" height="161" align="center" class="shrinkToFit">
 <div id="badges" align="center">
   <a href="https://facebook.com/muhammadyusuf1992">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
